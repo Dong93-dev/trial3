@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 the fitst line
+=======
+
+The second line
+>>>>>>> b0a05d3762d9c3308cc9969881ba09184ac99511
